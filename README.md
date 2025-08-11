@@ -17,7 +17,6 @@
 	- GLSL
 - oF multithreading
 - (final project)
-### OSC final project presentations
 
 ## Assignments and Grading
 Description|Grade
