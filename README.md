@@ -1,12 +1,11 @@
 # audio-reactive visual programming in C++ 
 
-## topics
+## Topics
 - overview, install, and openFrameworks (oF) philosophy
 - simple graphics
 - classes
 - loops and GUIs
 - oFxFFT
-- (midterm)
 - simple pd
 - advanced pd
 - oFxOSC
@@ -16,7 +15,6 @@
 	- openGL
 	- GLSL
 - oF multithreading
-- (final project)
 
 ## Assignments and Grading
 Description|Grade
@@ -27,29 +25,29 @@ FFT project | 25%
 OSC project | 25%
 **Total**|**100%**
 
-### ALL DUE DATES ARE IN UNDER THE "ASSIGNMENTS" SECTION IN CANVAS
+### ALL DUE DATES ARE UNDER THE "ASSIGNMENTS" SECTION IN CANVAS
 
-### Steps to submit via GitHub+Canvas
-  1. Make a subfolder in *your* GitHub repository named after the assignment (i.e. {yourusername}/{course}/{assignment}, etc.)
-  2. Commit all parts of your assignment (i.e. code+documentation) into that subfolder
-  3. Submit the link **to that folder** into the appropriate Canvas Assignment
+### Steps to submit assignments via GitHub+Canvas
+  1. Make a subfolder in *your* GitHub repository (not the class respository!) named after the assignment (i.e. {yourusername}/{course}/{assignment}, etc.)
+  2. Commit all parts of your assignment (i.e. code+documentation file) into that subfolder
+  3. Submit the link **to that folder** in the appropriate Canvas assignment by the deadline
 
-### Documentation outline
-  - The documentation (**always** in Markdown, saved as a .md file) must have the following:
+### Documentation File outline
+  - The documentation file (**always *in* MarkDown, saved as a .md file**) must have the following:
     - what you did
     - how you did it
-    - the problems you faced (ABDYD: always be documenting your debugging!)
+    - the problems you faced (ABDYDB: always be documenting your debugging!)
     - how you overcame them
     - *what code you used from others/elsewhere*
       - where to find that code (specific links!!!)
-      - other folks' GitHub public repositories, [Stack OverFlow](https://stackoverflow.com/), language forums are the best places to go for help most of the time
+      - other folks' public GitHub repositories, [Stack OverFlow](https://stackoverflow.com/), programming language forums are the best places to go for help most of the time
       - *do not* submit paywalled links
       - *if* you submit YouTube links (which is discouraged), they must have TIME STAMPS
     - Correctly document all your debugging, especially if you code ultimately does not run as intended. I will take points off for code that does not run correctly, but will still give partial credit if it is well-documented.
-    - For the purposes of this class, your documentation also helps you prepare to talk about your code in class with your colleagues.
-    - In general (unless I specify otherwise), it is permissible to use chat-GPT under the following circumstances:
-      - You document the ENTIRE INTERACTION with screenshots and include images of those screen shots in your Documentation File.
-      - You write out *in your own words* your understanding of what you learned from using chat-GPT in your Documentation File.
+    - For the purposes of this class, your documentation file also helps you prepare to talk about your code in class with your colleagues.
+    - In general (unless I specify otherwise), it is permissible to use chat-GPT or other large-language models under the following circumstances:
+      - You document the **ENTIRE INTERACTION** with screenshots and include images of those screen shots with your documentation.
+      - You write out *in your own words* your **SPECIFIC** understanding of what you learned from using chat-GPT in your documentation file.
 
 ## Instructor Info
 ### <u>Rachel Devorah Wood Rome, Ph.D.</u>
@@ -57,9 +55,9 @@ OSC project | 25%
 - Email: [rrome@berklee.edu](rrome@berklee.edu)
 - Phone: 336.355.1993
 - Office Hours:
-	- Tuesdays 12-2 EST.
-	- Meetings will *always* take place in person at 1126 Boylston Room 208.
-	- Walk-ins welcome, but preference is given to those who make [appointments here.](https://calendar.app.google/ER3N9CgnNFRqi8qE6)
+	- Tuesdays 12-1pm EST; Thursday 11am-12pm EST
+	- Meetings will *always* take place in person at 1126 Boylston Room 208 (never on zoom).
+	- Walk-ins welcome, but preference is given to those who make [appointments here.](https://calendar.app.google/y89Au3KaaYXY5vJ56)
 	- If you are not available during my office hour, you are welcome to use Berklee Google Calendar (be signed into your own account and search for "r.d.w.rome") to look at my whole calendar and make an appointment that way. It is up-to-date; no need to email me. Just drop the appointment in my calendar.
 
 ## Policies
@@ -87,7 +85,7 @@ OSC project | 25%
 - If you have a question or comment about a grade, you must come ask it *in person* at my office hour.
 
 ### Attendance
-- The **(two)** lowest attendance grades will be dropped.
+- The lowest attendance grade will be dropped at the end of the semester.
 - Remote attendance is not permitted.
 - You must attend class with the computer you're using for class projects (no phones, no tablets, no borrowed laptops). If you do not, you'll receive a partial (50 %) attendance grade for the week.
 - If you are more than 5 minutes late for class or leave more than 5 minutes early, you'll receive a partial attendance grade for the week.
@@ -96,3 +94,5 @@ OSC project | 25%
 - When you are absent you are responsible for the materials of the class you missed. *I will not catch you up over email,* but you may come ask me questions during my office hour *after you have reviewed the materials.*
 - Attendance the week of Finals is mandatory (see Student Handbook).
 - If you need an accommodation for this course, please see [Accessibility Resources](https://www.berklee.edu/accessibility-resources) as soon as possible.
+- If you are subject to discrimination, harassment, or sexual misconduct in the Berklee community, please do not hesitate to talk to the [Equity Office](https://www.berklee.edu/equity).
+
