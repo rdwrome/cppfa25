@@ -78,6 +78,7 @@ OSC project | 25%
 - In an emergency, please call me (really).
 
 ### Grading
+- The lowest progress report grade will be dropped at the end of the semester.
 - Two assignment extensions may be granted more than 12 hours in advance, but will not necessarily be granted for large projects.
 - Assignment extensions are not implicit with absences: if you are missing class the date something is due, you must explicitly ask for an assignment extension more than 12 hours in advance.
 - You will be held to the Berklee Policy on Honesty in Academic Work (see Student Handbook).
